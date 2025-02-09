@@ -45,6 +45,6 @@ class HomeReposImpl implements HomeRepository {
 
 
 *Example of the String Calculator in action.*
-![1.](screen_recording.webm)
+![1.](ss.mp4)
 
 ![2](Screenshot.png)
